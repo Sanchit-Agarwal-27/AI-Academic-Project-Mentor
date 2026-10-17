@@ -161,10 +161,7 @@ export default function LoginPage() {
           <div className="ob-form-card login-card">
             {/* Header / Avatar */}
             <div className="login-card-header">
-              <div className="login-avatar-badge" aria-hidden="true">
-                <LogIn size={20} strokeWidth={2.2} />
-              </div>
-              <h1 className="login-title">Welcome back</h1>
+              <h1 className="login-title">👋 Welcome back</h1>
               <p className="login-subtitle">
                 Log in to continue your project journey.
               </p>
